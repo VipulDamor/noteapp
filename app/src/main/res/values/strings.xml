@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CleanArchitectureNotesApp</string>
+    <string name="add_edit_notes">Add Edit Notes</string>
+    <string name="color">color</string>
+    <string name="save">save</string>
+    <string name="delete_note">Delete note</string>
+    <string name="notes_app">Notes App</string>
+    <string name="add_notes">add notes</string>
+    <string name="note_deleted_successfully">note deleted successfully</string>
+    <string name="undo">Undo</string>
+    <string name="click_on_button_to_add_awesome_notes">Click on + button to add awesome notes</string>
+</resources>
