@@ -24,12 +24,12 @@ interface.
 
 ## Screenshots
 
-<div align="center">
+<div align="center"> 
 <p><em>Add, edit, and delete notes seamlessly.</em></p>
-  <img src="app/img_2.png" alt="Screenshot 1" width="350"/>
-  <img src="app/img_3.png" alt="Screenshot 2" width="350"/>
-  <img src="app/img_4.png" alt="Screenshot 3" width="350"/>
-  <img src="app/img_5.png" alt="Screenshot 4" width="350"/>
+    <img src="app/img_4.png" alt="Screenshot 3" width="350"/>
+    <img src="app/img_3.png" alt="Screenshot 2" width="350"/>
+    <img src="app/img_2.png" alt="Screenshot 1" width="350"/>
+    <img src="app/img_5.png" alt="Screenshot 4" width="350"/>
 
 <p><em>List of notes displayed in a clean interface.</em></p>
   <img src="app/img_1.png" alt="Screenshot 5" width="350"/>
