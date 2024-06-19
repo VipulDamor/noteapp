@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CleanArchitectureNotesApp</string>
+    <string name="app_name">@string/notes_app</string>
     <string name="add_edit_notes">Add Edit Notes</string>
     <string name="color">color</string>
     <string name="save">save</string>

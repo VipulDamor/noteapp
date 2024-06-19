@@ -1,6 +1,9 @@
 # Notes App
 
-Notes is an Android application designed for efficient note management. It leverages modern technologies like Dagger Hilt for dependency injection, Room Database for local data storage, follows Clean Architecture principles, and utilizes Material Design components for a sleek user interface.
+Notes is an Android application designed for efficient note management. It leverages modern
+technologies like Dagger Hilt for dependency injection, Room Database for local data storage,
+follows Clean Architecture principles, and utilizes Material Design components for a sleek user
+interface.
 
 ## Features
 
@@ -21,12 +24,13 @@ Notes is an Android application designed for efficient note management. It lever
 
 ## Screenshots
 
-![Screenshot 1](app/img_2.png)
-![Screenshot 2](app/img_3.png)
-![Screenshot 3](app/img_4.png)
-![Screenshot 4](app/img_5.png)
-*Caption: Add, edit, and delete notes seamlessly.*
+<div align="center">
+<p><em>Add, edit, and delete notes seamlessly.</em></p>
+  <img src="app/img_2.png" alt="Screenshot 1" width="350"/>
+  <img src="app/img_3.png" alt="Screenshot 2" width="350"/>
+  <img src="app/img_4.png" alt="Screenshot 3" width="350"/>
+  <img src="app/img_5.png" alt="Screenshot 4" width="350"/>
 
-![Screenshot 5](app/img_1.png)
-*Caption: List of notes displayed in a clean interface.*
-
+<p><em>List of notes displayed in a clean interface.</em></p>
+  <img src="app/img_1.png" alt="Screenshot 5" width="350"/>
+</div>
