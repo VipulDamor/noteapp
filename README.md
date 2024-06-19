@@ -21,6 +21,7 @@ interface.
 - **Kotlin Symbol Processing (KSP)**: Efficient annotation processing for Kotlin.
 - **Kotlin 2.0**: Utilizes the latest features and improvements in the Kotlin language.
 - **Gradle.ktx**: Kotlin DSL for Gradle build scripts, enhancing build logic readability.
+- **Jetpack Compose**: Android’s recommended modern toolkit for building native UI
 
 ## Screenshots
 
