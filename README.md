@@ -5,6 +5,13 @@ technologies like Dagger Hilt for dependency injection, Room Database for local 
 follows Clean Architecture principles, and utilizes Material Design components for a sleek user
 interface.
 
+## Download
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+alt="Download from Google Play"
+height="80">](https://play.google.com/store/apps/details?id=com.developers1993.cleanarchitecturenotesapp)
+
+
 ## Features
 
 - **Add Note**: Create new notes with ease.
@@ -35,3 +42,5 @@ interface.
 <p><em>List of notes displayed in a clean interface.</em></p>
   <img src="app/img_1.png" alt="Screenshot 5" width="350"/>
 </div>
+
+
