@@ -92,12 +92,15 @@ fun NotesItem(
                 maxLines = 5,
                 overflow = TextOverflow.Ellipsis
             )
+            Spacer(modifier = Modifier.height(8.dp))
         }
         Column(
-            modifier = Modifier.align(Alignment.BottomEnd).padding(4.dp),
+            modifier = Modifier
+                .align(Alignment.BottomEnd)
+                .padding(end = 4.dp, top = 8.dp),
             horizontalAlignment = Alignment.End
             ) {
-
+            Spacer(modifier = Modifier.height(8.dp))
             IconButton(
                 onClick = onDeleteClick,
             ) {
@@ -115,6 +118,7 @@ fun NotesItem(
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis
             )
+            Spacer(modifier = Modifier.height(4.dp))
         }
     }
 }
